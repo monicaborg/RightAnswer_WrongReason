@@ -3,7 +3,7 @@
 **Explainable AI for Automated Conceptual Understanding Assessment**
 
 Codebase for an EGH490 capstone research project completed by Monica Borg
-(n9802045) under the supervision of Dr Sam Cunningham and Dr Wageeh Boles,
+(n9802045) under the supervision of Dr Sam Cunningham and Prof Wageeh Boles,
 QUT Faculty of Engineering, 2026. The project applies explainable AI to the
 automated scoring of students' conceptual reasoning in Signals & Systems.
 
